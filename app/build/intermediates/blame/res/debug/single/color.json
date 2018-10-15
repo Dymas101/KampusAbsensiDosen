@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\5f52161e4ae45fe14c0a3041387457171151f030\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\5f52161e4ae45fe14c0a3041387457171151f030\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\5b45d461a9de7fd02d83b856fb88a75b83ff15fe\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\250c3b5e38d030eb1e6d21f1913390e2f9a2e7eb\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\5f52161e4ae45fe14c0a3041387457171151f030\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\250c3b5e38d030eb1e6d21f1913390e2f9a2e7eb\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\5b45d461a9de7fd02d83b856fb88a75b83ff15fe\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\250c3b5e38d030eb1e6d21f1913390e2f9a2e7eb\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\5f52161e4ae45fe14c0a3041387457171151f030\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\5f52161e4ae45fe14c0a3041387457171151f030\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\250c3b5e38d030eb1e6d21f1913390e2f9a2e7eb\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\5f52161e4ae45fe14c0a3041387457171151f030\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\5f52161e4ae45fe14c0a3041387457171151f030\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\5f52161e4ae45fe14c0a3041387457171151f030\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    }
+]

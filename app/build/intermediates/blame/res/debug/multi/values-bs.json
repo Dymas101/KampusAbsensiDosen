@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 199,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\f89c01ef318d126a8d3b09185c531800d08464c4\\output\\res\\values-bs\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 199,
+                        "endOffset": 484
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 199,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\7cef74cbb425d26fdd1bfb5dfc8ddc4bb3922182\\output\\res\\values-bs\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 199,
+                        "endOffset": 484
+                    }
+                }
+            }
+        ]
+    }
+]

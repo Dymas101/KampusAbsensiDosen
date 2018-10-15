@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_matkul_mhs.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\list_row_matkul_mhs.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\3613ab0d49bf6902c12c1f58345eb52a10fc3f76\\output\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\54aeff7f620d2e301282b73e8a01868d82036bdc\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\fragment_tab.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\54aeff7f620d2e301282b73e8a01868d82036bdc\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\form_catatan.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\form_catatan.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feed_image_layout.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\feed_image_layout.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\matkul_list.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\matkul_list.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_detail.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\list_row_detail.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\3613ab0d49bf6902c12c1f58345eb52a10fc3f76\\output\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\activity_tab.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\54aeff7f620d2e301282b73e8a01868d82036bdc\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_activity.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\progress_activity.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\5f52161e4ae45fe14c0a3041387457171151f030\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\6801b8782c3ca0cb6551a20331f1d54a40f9773f\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\6801b8782c3ca0cb6551a20331f1d54a40f9773f\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_navigation_drawer.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\nav_header_navigation_drawer.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\6801b8782c3ca0cb6551a20331f1d54a40f9773f\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_first.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\activity_first.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\54aeff7f620d2e301282b73e8a01868d82036bdc\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\form_biodata.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\form_biodata.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\form_biodata.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\form_biodata.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\6801b8782c3ca0cb6551a20331f1d54a40f9773f\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_first.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\activity_first.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\54aeff7f620d2e301282b73e8a01868d82036bdc\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_detail.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\list_row_detail.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\54aeff7f620d2e301282b73e8a01868d82036bdc\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_berita.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\list_row_berita.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\54aeff7f620d2e301282b73e8a01868d82036bdc\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\6801b8782c3ca0cb6551a20331f1d54a40f9773f\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\54aeff7f620d2e301282b73e8a01868d82036bdc\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\6801b8782c3ca0cb6551a20331f1d54a40f9773f\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_matkul.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\list_row_matkul.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\54aeff7f620d2e301282b73e8a01868d82036bdc\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\activity_tab.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_repeating.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\activity_repeating.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\form_catatan.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\form_catatan.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\6801b8782c3ca0cb6551a20331f1d54a40f9773f\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feed_image_layout.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\feed_image_layout.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_berita.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\list_row_berita.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_matkul.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\list_row_matkul.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\54aeff7f620d2e301282b73e8a01868d82036bdc\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_matkul_mhs.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\list_row_matkul_mhs.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\6801b8782c3ca0cb6551a20331f1d54a40f9773f\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_matkul_edit.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\list_row_matkul_edit.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\54aeff7f620d2e301282b73e8a01868d82036bdc\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\6801b8782c3ca0cb6551a20331f1d54a40f9773f\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_activity.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\progress_activity.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\54aeff7f620d2e301282b73e8a01868d82036bdc\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\6801b8782c3ca0cb6551a20331f1d54a40f9773f\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kuliah_sec_tab.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\kuliah_sec_tab.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kuliah_sec_tab.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\kuliah_sec_tab.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_navigation_drawer.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\nav_header_navigation_drawer.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\fragment_tab.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\6801b8782c3ca0cb6551a20331f1d54a40f9773f\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_matkul_edit.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\list_row_matkul_edit.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_repeating.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\activity_repeating.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\6801b8782c3ca0cb6551a20331f1d54a40f9773f\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\3613ab0d49bf6902c12c1f58345eb52a10fc3f76\\output\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\ccd1269980c8a6e548cdd19e952c090fbb14e908\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Dymas Gemilang\\.android\\build-cache\\40072033160de22feb0851d3090f92f47ba8677b\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\matkul_list.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\layout\\matkul_list.xml"
+    }
+]

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.NoActionBar.AppBarOverlay"
+        app:elevation="0dp">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/purpleAccent"
+        app:popupTheme="@style/AppTheme.NoActionBar.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <TextView
+        android:id="@+id/copyright"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="70dp"
+        android:textStyle="bold"
+        android:text="Copyright : Innosoft" />
+
+    <TextView
+        android:id="@+id/peneliti1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/copyright"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="12dp"
+        android:text="Peneliti 1 : Agus Somantri" />
+
+    <TextView
+        android:id="@+id/pembimbing1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/peneliti1"
+        android:layout_marginLeft="20dp"
+        android:text="Pembimbing 1 : Gibtha Fitri Laxmi, S.Kom., M.Kom." />
+
+    <TextView
+        android:id="@+id/pembimbing2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/pembimbing1"
+        android:layout_marginLeft="20dp"
+        android:text="Pembimbing 2 : Jejen Jaenudin, S.Kom., M.Kom." />
+
+    <TextView
+        android:id="@+id/peneliti2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/pembimbing2"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="12dp"
+        android:text="Peneliti 2 : Dymas Gemilang" />
+
+    <TextView
+        android:id="@+id/pembimbing12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/peneliti2"
+        android:layout_marginLeft="20dp"
+        android:text="Pembimbing 1 : Gibtha Fitri Laxmi, S.Kom., M.Kom." />
+
+    <TextView
+        android:id="@+id/pembimbing22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/pembimbing12"
+        android:layout_marginLeft="20dp"
+        android:text="Pembimbing 2 : A. Hendri Hendrawan, S.Kom., M.Kom." />
+</RelativeLayout>

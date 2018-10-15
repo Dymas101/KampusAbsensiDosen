@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "5466712399",
+    "firebase_url": "https://kabar-ti-uika-01.firebaseio.com",
+    "project_id": "kabar-ti-uika-01",
+    "storage_bucket": "kabar-ti-uika-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5466712399:android:f721e1b873804394",
+        "android_client_info": {
+          "package_name": "info.androidhive.loginandregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5466712399-2rhr5ngj74uf9ij4e9tl4pjo3d64mau5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.androidhive.loginandregistration",
+            "certificate_hash": "f39ba9d43ac72237f77a1e28576b60d42936fa86"
+          }
+        },
+        {
+          "client_id": "5466712399-5mci5t73k127tcaclq2k85dpb0itoptr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoSs7DIE-AZaVsW8j8C8NK04Wz6SQwUDc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5466712399-5mci5t73k127tcaclq2k85dpb0itoptr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

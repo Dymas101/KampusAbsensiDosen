@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_drawer.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\menu\\navigation_drawer.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_navigation_drawer_drawer.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\menu\\activity_navigation_drawer_drawer.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_tab.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\menu\\menu_tab.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_tab.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\menu\\menu_tab.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_navigation_drawer_drawer.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\menu\\activity_navigation_drawer_drawer.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_drawer.xml",
+        "source": "D:\\Project Android\\Kampus-Absensi-Dosen\\app\\src\\main\\res\\menu\\navigation_drawer.xml"
+    },
+    {
+        "merged": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\Edit-Editan\\Android Studio\\AndroidLoginAndRegistration\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]
