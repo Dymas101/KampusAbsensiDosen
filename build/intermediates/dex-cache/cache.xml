@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dymas Gemilang\.android\build-cache\61dedcdc58e2c5826c1caf5d2c117f1fa5c06974\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="D:\Edit-Editan\Android Studio\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_2ad7d00e397fa33d85509e51e918066e50aba7c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\And\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha8\constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="D:\Edit-Editan\Android Studio\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha8_c97220272884172c5eecc2fe5f69629f0e6558af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dymas Gemilang\.android\build-cache\90bc01b6a5800a32e385110c0b127d647302ac30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\Edit-Editan\Android Studio\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_10b9f58641f3729996b886d627d7f6ffa91e29ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dymas Gemilang\.android\build-cache\513628a06b3103e5781f5fac7aea0c552cc17558\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\Edit-Editan\Android Studio\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_9c6ec731183c8bf2af843d4941323b109ba343a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dymas Gemilang\.android\build-cache\2993b6b014b485954395a591fa34e900e0fe9dfd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="D:\Edit-Editan\Android Studio\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_74d757c522754de3f32b2fb87695503dbbaf9d34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\And\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\Edit-Editan\Android Studio\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_d1efb36e0fdac461657a217a4729bd1c506cb3d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dymas Gemilang\.android\build-cache\df3e1673175a6ffaefa8864bd9e34ecb12098d13\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\Edit-Editan\Android Studio\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_d748216685acb92e578352190d66b3df02493225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dymas Gemilang\.android\build-cache\7cef74cbb425d26fdd1bfb5dfc8ddc4bb3922182\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\Edit-Editan\Android Studio\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_98de912e60ae38af0cb77830306562f834804e08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dymas Gemilang\.android\build-cache\513628a06b3103e5781f5fac7aea0c552cc17558\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\Edit-Editan\Android Studio\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_a91d4fff55df8ef2ebce8a718acd143d0b5a3046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dymas Gemilang\.android\build-cache\89ed0ddbc27deb587d101bc751e9ab63244c9755\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\Edit-Editan\Android Studio\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_bec7203b98e09577858ce5b1169ac33621968b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dymas Gemilang\.android\build-cache\c0744b47a078754ca1e7948d727d947fde676e5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\Edit-Editan\Android Studio\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_a55b3a44d1f05dfde314932eb1946b62547ab2d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dymas Gemilang\.android\build-cache\fbe28a1cd6dfa21e58528ffadfccf443fbd2e6ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\Edit-Editan\Android Studio\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_e200ec4d863a603b7b6695d5b68f6403ffd18787.jar" />
+    </item>
+
+</items>
